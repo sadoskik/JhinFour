@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NbzU2ZPhUCAAe5T2/FR1fNTDEVVGFzrxLu7wbAKgk5oDZqQ7eUNvi/uqO+4kW9HAci/J3k68CN0G+zz8nDtK+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Keaton\\source\\repos\\JhinFour\\JhinFour\\JhinFour.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Keaton\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.0.1\\pathoschild.stardew.modbuildconfig.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

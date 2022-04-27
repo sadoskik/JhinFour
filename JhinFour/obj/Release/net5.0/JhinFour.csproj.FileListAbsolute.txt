@@ -1,0 +1,10 @@
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\bin\Release\net5.0\JhinFour.deps.json
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\bin\Release\net5.0\JhinFour.dll
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\bin\Release\net5.0\JhinFour.pdb
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\obj\Release\net5.0\JhinFour.csproj.AssemblyReference.cache
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\obj\Release\net5.0\JhinFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\obj\Release\net5.0\JhinFour.AssemblyInfoInputs.cache
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\obj\Release\net5.0\JhinFour.AssemblyInfo.cs
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\obj\Release\net5.0\JhinFour.csproj.CoreCompileInputs.cache
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\obj\Release\net5.0\JhinFour.dll
+C:\Users\Keaton\source\repos\JhinFour\JhinFour\obj\Release\net5.0\JhinFour.pdb
